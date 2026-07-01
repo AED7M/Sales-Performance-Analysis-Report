@@ -37,7 +37,7 @@ This project is part of my DataCamp Data Analyst certification and involves a co
 To explore this project, clone the repository and open the Jupyter Notebook file. Ensure you have the necessary libraries installed.
 
 ```bash
-git clone https://github.com/AED7M/Sales-Performance-Analysis-Report.git
+git clone https://github.com/Asmaa-Mohamed-Wali/Sales-Performance-Analysis-Report.git
 cd sales-data-analysis
 ```
 
